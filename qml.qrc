@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>back.jpg</file>
+        <file>sound.wav</file>
+    </qresource>
+</RCC>
